@@ -1,0 +1,46 @@
+body,div,dl,dt,dd,ul,li,li,h1,h2,h3{
+	margin:o;
+	padding:o;
+}
+.all{
+	margin: 0 auto;
+	width: 960px;
+	height: 600px;
+	padding: 25px;
+	border: 1px solid gray;
+	background-color: #ede6e6;
+}
+.left{
+	float: left;
+	width: 180px;
+	height: 100px;
+	padding: 28px;
+	border: 1px solid gray;
+	background-color: white;
+
+}
+.image{
+    float: left;
+}
+.middle{
+   margin-left: 60px;
+	 margin-right: 10px; 
+	float: left;
+   width: 360px;
+   height: 400px;
+   padding: 25px;
+   border: 1px solid gray;
+	background-color: white;
+}
+.right{
+	padding: 25px;
+	float: right;
+	width: 120px;
+    border: 1px solid gray;
+	background-color: white;
+}
+.right-image{
+	display: block;
+	margin-top: 10px;
+	margin-left: 10px;
+}
